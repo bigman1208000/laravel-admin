@@ -26,7 +26,7 @@ A [Laravel](http://laravel.com/) 5.2.x, [Bootstrap](http://getbootstrap.com) 3.5
 |404 Page for users|
 
 ### Quick Project Setup
-1. Run `git clone https://github.com/jeremykenedy/laravel-admin.git laravel-admin`
+1. Run `git clone https://github.com/bigman1208000/laravel-admin.git laravel-admin`
 2. Create a MySQL database for the project
     * ```mysql -u root -p```, if using Vagrant: ```mysql -u homestead -psecret```
     * ```create database laravelAdmin;```
